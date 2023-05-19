@@ -6,7 +6,7 @@ AutoML
 
 **LLM**  
 LLMs (Large Language Models) are natural language processing computer programs that use deep artificial neural networks, such as transformers, to learn from large amounts of data (billions or trillions of words), to generate text and source code on any topic or domain. 
-Some notable LLMs are GPT-3, GPT-4, LaMDA, BLOOM, and LLaMA. LLMs power many applications, such as AI chatbots and AI search engines.
+LLMs power many applications, such as AI chatbots and AI search engines. Some notable LLMs are GPT-3, GPT-4, LaMDA, BLOOM, and LLaMA. 
 
 ## Programming languages
 [Mojo](https://docs.modular.com/mojo/why-mojo.html) | [Medium post on the subject](https://medium.com/artificial-corner/mojo-the-programming-language-for-ai-that-is-up-to-35000x-faster-than-python-e68d1fba37db)
