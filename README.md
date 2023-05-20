@@ -13,6 +13,10 @@ LLMs power many applications, such as AI chatbots and AI search engines. Some no
 
 
 ## Platforms
+### Data cleaner
 Automatically find and fix errors in your real-world data.  
 Turn unreliable data into reliable models and insights.  
 https://cleanlab.ai/ | [LinkedIn post on the subject](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7064898001051267072)
+
+### Quote generator
+https://thetexvn.com/tools/quote.html
