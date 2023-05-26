@@ -6,6 +6,15 @@
 The main advantage of Polars over Pandas is its speed. If you need to do a lot of data processing on large datasets, you should definitely try Polars. The main advantage of Polars over Pandas is its speed.  
 [source](https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e)
 
+## DVC
+(Not Just) Data Version Control  
+Open-source, Git-based data science. Apply version control to machine learning development, make your repo the backbone of your project, and instill best practices across your team.  
+https://dvc.org/
+
+### DagsHub
+Manage machine learning projects the right way.  
+Workflows and tools for managing complex data projects – data, code, experiments, and models, all in one place.  
+https://dagshub.com/
 
 ## Keywords
 AutoML
