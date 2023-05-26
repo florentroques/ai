@@ -4,7 +4,10 @@
 
 ### Polars
 The main advantage of Polars over Pandas is its speed. If you need to do a lot of data processing on large datasets, you should definitely try Polars. The main advantage of Polars over Pandas is its speed.  
-[source](https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e)
+[source 1 | 2023-01-11](https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e)
+
+While Pandas is more syntactically appealing, Polars offers better throughput when working with larger data frames.  
+[source 2 | 2023-04-09](https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1)
 
 ## DVC
 (Not Just) Data Version Control  
@@ -18,7 +21,9 @@ https://dagshub.com/
 
 ## Keywords
 AutoML  
-AutoGPT
+AutoGPT  
+ML Ops  
+LL Ops  
 
 **LLM**  
 LLMs (Large Language Models) are natural language processing computer programs that use deep artificial neural networks, such as transformers, to learn from large amounts of data (billions or trillions of words), to generate text and source code on any topic or domain. 
