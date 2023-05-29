@@ -23,7 +23,9 @@ https://dagshub.com/
 AutoML  
 AutoGPT  
 ML Ops  
-LL Ops
+LL Ops  
+Reinforcement Learning from Human Feedback  
+GPT: Generative Pre-Trained Transformer
 
 **What is AGI vs AI?**.  
 How do they differ? There is a big difference between agi and ai. Agi is artificial general intelligence, while ai is artificial intelligence. Agi is a machine that has the ability to understand or learn any intellectual task that a human being can, while ai is a machine that performs specific tasks well.  
