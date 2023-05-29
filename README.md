@@ -9,7 +9,7 @@ The main advantage of Polars over Pandas is its speed. If you need to do a lot o
 While Pandas is more syntactically appealing, Polars offers better throughput when working with larger data frames.  
 [source 2 | 2023-04-09](https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1)
 
-## DVC
+### DVC
 (Not Just) Data Version Control  
 Open-source, Git-based data science. Apply version control to machine learning development, make your repo the backbone of your project, and instill best practices across your team.  
 https://dvc.org/
@@ -23,7 +23,12 @@ https://dagshub.com/
 AutoML  
 AutoGPT  
 ML Ops  
-LL Ops  
+LL Ops
+
+**What is AGI vs AI?**.  
+How do they differ? There is a big difference between agi and ai. Agi is artificial general intelligence, while ai is artificial intelligence. Agi is a machine that has the ability to understand or learn any intellectual task that a human being can, while ai is a machine that performs specific tasks well.  
+[source](https://www.alibabacloud.com/topic-center/tech/19tggrvkimmz-agi-vs-ai-alibaba-cloud)
+
 
 **LLM**  
 LLMs (Large Language Models) are natural language processing computer programs that use deep artificial neural networks, such as transformers, to learn from large amounts of data (billions or trillions of words), to generate text and source code on any topic or domain. 
