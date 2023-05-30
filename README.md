@@ -41,6 +41,18 @@ LLMs power many applications, such as AI chatbots and AI search engines. Some no
 [Mojo](https://docs.modular.com/mojo/why-mojo.html) | [Medium post on the subject](https://medium.com/artificial-corner/mojo-the-programming-language-for-ai-that-is-up-to-35000x-faster-than-python-e68d1fba37db)
 
 
+## ChatGPT
+Plugins that are worth it:  
+- Video Insights  
+- Link Reader  
+- Ask Your PDF  
+- Speak  
+- There’s an AI for That  
+- Wolfram  
+- Prompt Perfect  
+
+[source](https://artificialcorner.com/i-tried-84-chatgpt-plugins-these-are-the-best-3b3be6b1cb7b)
+
 ## Platforms
 ### Data cleaner
 Automatically find and fix errors in your real-world data.  
