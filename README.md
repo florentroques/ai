@@ -1,4 +1,4 @@
-# AI, ML, Data Science - Tech Watch
+# Tech Watch - AI, ML, Data Science
 
 ## Top Voices
 Damien Benveniste - Ex-ML Tech Lead@Meta | Large scale end to end Machine Learning solutions  
