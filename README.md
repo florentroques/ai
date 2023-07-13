@@ -1,5 +1,12 @@
 # tech-watch
 
+## Top Voices
+Damien Benveniste - Ex-ML Tech Lead@Meta | Large scale end to end Machine Learning solutions  
+https://twitter.com/DamiBenveniste  
+https://www.linkedin.com/in/damienbenveniste/  
+https://www.facebook.com/damien.benveniste
+
+
 ## Data Science
 
 ### Polars
