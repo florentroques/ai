@@ -6,6 +6,9 @@ https://twitter.com/DamiBenveniste
 https://www.linkedin.com/in/damienbenveniste/  
 https://www.facebook.com/damien.benveniste
 
+Rowan Cheung - Sharing the latest developments in the world of artificial intelligence. @therundownai
+https://twitter.com/rowancheung  
+https://www.therundown.ai/  
 
 ## Data Science
 
