@@ -22,4 +22,4 @@ Les bases de données vectorielles sont souvent utilisées dans les moteurs de r
 
 À l'ère de l'IA générative, les bases de données vectorielles se sont multipliées. L'idée derrière les bases de données vectorielles est d'indexer les données avec des vecteurs qui se rapportent à ces données.
 
-![Base de données vectorielle - Schéma 1](img/bdd-vetorielle-schema-1.webp)
+![Base de données vectorielle - Schéma 1](img/bdd-vectorielle-schema-1.webp)
