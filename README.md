@@ -35,6 +35,9 @@ faceted search
 **Algorithms**
 k-nearest neighbors  
 Approximate Nearest Neighbor  
+Product Quantization  
+Locality-sensitive hashing  
+Hierarchical Navigable Small World  
 
 
 **What is AGI vs AI?**.  
