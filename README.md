@@ -30,6 +30,8 @@ Reinforcement Learning from Human Feedback
 Deep Learning  
 GPT: Generative Pre-Trained Transformer, which is an AI that uses its existing knowledge to answer questions  
 neural-network  
+faceted search  
+
 
 
 **What is AGI vs AI?**.  
