@@ -32,6 +32,9 @@ GPT: Generative Pre-Trained Transformer, which is an AI that uses its existing k
 neural-network  
 faceted search  
 
+**Algorithms**
+k-nearest neighbors  
+Approximate Nearest Neighbor  
 
 
 **What is AGI vs AI?**.  
