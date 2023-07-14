@@ -31,3 +31,7 @@ Les bases de données vectorielles sont souvent utilisées pour les moteurs de r
 Cela permet de trouver rapidement des articles similaires en utilisant une recherche approximative des voisins les plus proches.
 
 ![Base de données vectorielle - Recherche du voisin le plus proche](img/bdd-vectorielle-recherche-voisin-le-plus-proche.webp)
+
+Tant que nous pouvons apprendre une représentation vectorielle d'un élément de données, nous pouvons l'indexer dans une base de données vectorielle. Avec l'avènement récent des LLM (Large Language Model - Grand modèle de la langage), il est devenu plus facile de calculer des représentations vectorielles de documents textuels capturant la signification sémantique de ce texte.
+
+
