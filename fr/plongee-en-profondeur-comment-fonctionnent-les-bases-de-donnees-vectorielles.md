@@ -25,3 +25,5 @@ Les bases de données vectorielles sont souvent utilisées dans les moteurs de r
 ![Base de données vectorielle - Schéma 1](img/bdd-vectorielle-schema-1.webp)
 
 Les bases de données vectorielles sont souvent utilisées pour les moteurs de recommandation où nous apprenons les représentations vectorielles des utilisateurs et des articles que nous voulons recommander.
+
+![Base de données vectorielle - Moteur de recommendations](img/bdd-vectorielle-moteur-recommendations.webp)
