@@ -28,7 +28,9 @@ ML Ops
 LL Ops  
 Reinforcement Learning from Human Feedback  
 Deep Learning  
-GPT: Generative Pre-Trained Transformer, which is an AI that uses its existing knowledge to answer questions
+GPT: Generative Pre-Trained Transformer, which is an AI that uses its existing knowledge to answer questions  
+neural-network  
+
 
 **What is AGI vs AI?**.  
 How do they differ? There is a big difference between agi and ai. Agi is artificial general intelligence, while ai is artificial intelligence. Agi is a machine that has the ability to understand or learn any intellectual task that a human being can, while ai is a machine that performs specific tasks well.  
