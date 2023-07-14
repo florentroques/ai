@@ -38,4 +38,5 @@ Tant que nous pouvons apprendre une représentation vectorielle d'un élément d
 
 Les bases de données vectorielles facilitent la recherche de documents textuels sémantiquement similaires.
 
+![Matrice trouver les documents pertinents par rapport à notre recherche dans l'espace d'embedding](img/bdd-vectorielle-matrice-trouver-documents-pertinents-par-rapport-recherche.webp)
 
