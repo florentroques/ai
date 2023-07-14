@@ -30,4 +30,4 @@ Les bases de données vectorielles sont souvent utilisées pour les moteurs de r
 
 Cela permet de trouver rapidement des articles similaires en utilisant une recherche approximative des voisins les plus proches.
 
-
+![Base de données vectorielle - Recherche du voisin le plus proche](img/bdd-vectorielle-recherche-voisin-le-plus-proche.webp)
