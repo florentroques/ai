@@ -73,3 +73,10 @@ https://cleanlab.ai/ | [LinkedIn post on the subject](https://www.linkedin.com/f
 
 ### Quote generator
 https://thetexvn.com/tools/quote.html
+
+———
+
+Build & share delightful machine learning apps  
+Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!  
+https://www.gradio.app/
+
