@@ -59,8 +59,3 @@ Il existe des tonnes de fournisseurs de bases de données vectorielles. Voici un
 L'indexation d'une base de données vectorielles est très différente de l'indexation de la plupart des bases de données. L'objectif d'une requête est de renvoyer les voisins les plus proches, mesurés par une métrique de similarité. La complexité temporelle typique de l'algorithme des K plus proches voisins est O(ND), où N est le nombre de vecteurs et D la dimension du vecteur. La complexité temporelle augmente avec le nombre d'éléments, ce qui rend impossible la construction d'une base de données évolutive et rapide. L'approche classique consiste à s'appuyer sur les algorithmes de plus proche voisin approximatif (ANN) pour accélérer la recherche.
 
 Nous examinons ici trois algorithmes différents utilisés pour la recherche vectorielle : Quantification des produits, Hachage sensible à la localité et Petit monde hiérarchique navigable. Il s'agit d'algorithmes typiques utilisés dans la plupart des bases de données vectorielles. Ils sont susceptibles d'être utilisés de manière combinée pour optimiser la vitesse de recherche.
-
-
-
-
-
