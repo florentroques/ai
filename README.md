@@ -32,7 +32,7 @@ GPT: Generative Pre-Trained Transformer, which is an AI that uses its existing k
 neural-network  
 faceted search  
 
-**Algorithms**
+**Algorithms**  
 k-nearest neighbors  
 Approximate Nearest Neighbor  
 Product Quantization  
@@ -65,6 +65,10 @@ Plugins that are worth it:
 - Prompt Perfect  
 
 [source](https://artificialcorner.com/i-tried-84-chatgpt-plugins-these-are-the-best-3b3be6b1cb7b)
+
+Use "temperature" to change results you get with ChatGPT  
+https://twitter.com/TheRundownAI/status/1644765327320928257
+
 
 ## Platforms
 ### Data cleaner
