@@ -4,7 +4,7 @@
 
 ## Data Science
 
-### Polars (writtent in Rust)
+### Polars (written in Rust)
 **The main advantage of Polars over Pandas is its speed.**  
 If you need to do a lot of data processing on large datasets, you should definitely try Polars.  
 [source 1 | 2023-01-11](https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e)
