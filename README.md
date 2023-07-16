@@ -51,8 +51,11 @@ LLMs power many applications, such as AI chatbots and AI search engines. Some no
 
 ## Programming languages
 Mojo: The Programming Language for AI That Is Up To 35000x Faster Than Python  
-[Mojo](https://docs.modular.com/mojo/why-mojo.html) | [Medium post on the subject](https://medium.com/artificial-corner/mojo-the-programming-language-for-ai-that-is-up-to-35000x-faster-than-python-e68d1fba37db)  
-Julia?
+[Why Mojo?](https://docs.modular.com/mojo/why-mojo.html)  
+[Medium paywall post on the subject](https://medium.com/artificial-corner/mojo-the-programming-language-for-ai-that-is-up-to-35000x-faster-than-python-e68d1fba37db)  
+[Copy of the Medium article](articles/Mojo%20The%20Programming%20Language%20for%20AI%20That%20Is%20Up%20To%2035000x%20Faster%20Than%20Python%20by%20The%20PyCoach%20Artificial%20Corner.pdf)  
+
+Julia language?
 
 
 ## ChatGPT
