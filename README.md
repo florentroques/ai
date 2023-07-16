@@ -1,4 +1,4 @@
-![image](https://github.com/florentroques/tech-watch-ai-ml-data-science/assets/1901827/1f2af0ba-9cfc-4299-b375-2c77d404ee6d)# Tech Watch - AI, ML, Data Science
+# Tech Watch - AI, ML, Data Science
 
 - [Top Voices](top-voices.md)
 
