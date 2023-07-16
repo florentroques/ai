@@ -90,3 +90,11 @@ Build & share delightful machine learning apps
 Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!  
 https://www.gradio.app/
 
+———
+
+## Applications
+
+DigiArt - Free and Powerful Midjourney Alternative  
+https://medium.com/@fareedkhandev/digiart-free-and-powerful-midjourney-alternative-26f4671e0a14  
+
+
