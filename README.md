@@ -1,4 +1,4 @@
-# Tech Watch - AI, ML, Data Science
+![image](https://github.com/florentroques/tech-watch-ai-ml-data-science/assets/1901827/1f2af0ba-9cfc-4299-b375-2c77d404ee6d)# Tech Watch - AI, ML, Data Science
 
 - [Top Voices](top-voices.md)
 
@@ -50,6 +50,7 @@ LLMs (Large Language Models) are natural language processing computer programs t
 LLMs power many applications, such as AI chatbots and AI search engines. Some notable LLMs are GPT-3, GPT-4, LaMDA, BLOOM, and LLaMA. 
 
 ## Programming languages
+Mojo: The Programming Language for AI That Is Up To 35000x Faster Than Python  
 [Mojo](https://docs.modular.com/mojo/why-mojo.html) | [Medium post on the subject](https://medium.com/artificial-corner/mojo-the-programming-language-for-ai-that-is-up-to-35000x-faster-than-python-e68d1fba37db)  
 Julia?
 
