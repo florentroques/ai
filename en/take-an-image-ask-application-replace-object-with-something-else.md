@@ -71,6 +71,8 @@ You will learn:
 2. How to combine every piece together  
 3. How to track everything using [@Cometml](https://twitter.com/Cometml)
 
+![Step by step dashboard](img/step_by_step_dashboard.gif)
+
   
 
 
