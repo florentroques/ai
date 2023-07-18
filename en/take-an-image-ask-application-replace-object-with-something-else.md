@@ -60,3 +60,17 @@ This is called "inpainting." But we can also do "outpainting" and generate a new
 This completes the architecture of the pipeline: Grounding DINO + SAM + SD.  
 
 ![Grounding DINO to Segment Anything to Stable Diffusion](img/grounding-dino-to-segment-anything-to-stable-diffusion.png)
+
+For the source code and a full explanation, take a look at this tutorial, courtesy of [@Cometml](https://twitter.com/Cometml) and [@anmorgan2414](https://twitter.com/anmorgan2414):
+
+https://comet.com/site/blog/sam-stable-diffusion-for-text-to-image-inpainting
+
+You will learn:  
+
+1. How to use 3 state-of-the-art models  
+2. How to combine every piece together  
+3. How to track everything using [@Cometml](https://twitter.com/Cometml)
+
+  
+
+
