@@ -1,4 +1,4 @@
-# How to take an image and ask our application to replace an object in that image with something else.
+# How to take an image and ask the application to replace an object in that image with something else.
 
 3 individual models that work together to solve a problem that was near impossible months ago.  
 
@@ -59,3 +59,4 @@ This is called "inpainting." But we can also do "outpainting" and generate a new
 
 This completes the architecture of the pipeline: Grounding DINO + SAM + SD.  
 
+![Grounding DINO to Segment Anything to Stable Diffusion](img/grounding-dino-to-segment-anything-to-stable-diffusion.png)
