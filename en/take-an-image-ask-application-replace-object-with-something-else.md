@@ -43,5 +43,9 @@ It's also zero-shot and capable of segmenting objects on an image even when thos
 
 SAM was released earlier this year.  
 
+![Video of zero-
 
+https://github.com/florentroques/tech-watch-ai-ml-data-science/assets/1901827/03b60f05-2a85-4cff-83a7-0d272fc8dfd7
+
+shot detection](video/zero-shot-capable-segmenting-objects-on-image.mp4)
 
