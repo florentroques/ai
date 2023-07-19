@@ -38,7 +38,7 @@ SageMaker
 k-nearest neighbors  
 Approximate Nearest Neighbor  
 Product Quantization  
-Locality-sensitive hashing  
+Locality-sensitive hashing (LSH)  
 Hierarchical Navigable Small World  
 
 
