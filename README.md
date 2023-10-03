@@ -98,6 +98,9 @@ https://www.gradio.app/
 DigiArt - Free and Powerful Midjourney Alternative  
 https://medium.com/@fareedkhandev/digiart-free-and-powerful-midjourney-alternative-26f4671e0a14  
 
+HeyGen - AI Video Generator  
+https://www.heygen.com/  
+
 ———
 
 ## Frameworks
