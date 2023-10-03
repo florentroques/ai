@@ -9,3 +9,6 @@ Rowan Cheung - Sharing the latest developments in the world of artificial intell
 https://twitter.com/rowancheung  
 https://www.therundown.ai/  
 
+Steve Nouri  
+https://www.linkedin.com/in/stevenouri/  
+
