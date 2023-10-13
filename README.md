@@ -34,6 +34,7 @@ neural-network
 faceted search  
 SageMaker  
 DBT  
+https://www.stateof.ai/  
 
 **Algorithms**  
 k-nearest neighbors  
