@@ -33,6 +33,7 @@ GPT: Generative Pre-Trained Transformer, which is an AI that uses its existing k
 neural-network  
 faceted search  
 SageMaker  
+DBT  
 
 **Algorithms**  
 k-nearest neighbors  
